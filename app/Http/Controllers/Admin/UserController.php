@@ -56,6 +56,7 @@ class UserController extends Controller
         return view('admin.user_show',['data'=>$data,'datalist'=>$datalist]);
     }
 
+
     /**
      * Show the form for editing the specified resource.
      *

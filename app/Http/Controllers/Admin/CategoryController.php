@@ -24,6 +24,7 @@ class CategoryController extends Controller
 
         return CategoryController::getParentsTree($parent,$title);
     }
+
     /**
      * Display a listing of the resource.
      *
