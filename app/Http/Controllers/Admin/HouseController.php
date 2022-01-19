@@ -132,6 +132,7 @@ class HouseController extends Controller
         return redirect()->route('admin_houses');
     }
 
+
     /**
      * Remove the specified resource from storage.
      *
