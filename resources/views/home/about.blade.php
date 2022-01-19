@@ -6,6 +6,7 @@
 @section('title', 'Hakkımızda | '.$setting->title)
 @include('home._header')
 
+
 @section ('content')
     <div class="sub-banner">
         <div class="container">

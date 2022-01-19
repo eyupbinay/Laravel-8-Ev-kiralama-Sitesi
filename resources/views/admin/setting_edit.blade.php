@@ -12,6 +12,7 @@
 @section('content')
 
 
+
 <div class="content" style="padding-left: 300px; padding-top: 100px;">
     <div class="row">
         <div class="col-md-12">

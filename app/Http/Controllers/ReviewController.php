@@ -22,6 +22,7 @@ class ReviewController extends Controller
         return view('home.user_reviews',['datalist'=>$datalist]);
     }
 
+
     /**
      * Show the form for creating a new resource.
      *
