@@ -2,6 +2,7 @@
 
 @section('title','FAQ Ekle')
 
+
 @section('javascript')
     <head>
     @FilemanagerScript

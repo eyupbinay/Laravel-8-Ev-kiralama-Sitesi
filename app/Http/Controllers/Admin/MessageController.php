@@ -20,6 +20,7 @@ class MessageController extends Controller
         return view('admin.messages',['datalist'=>$datalist]);
     }
 
+
     /**
      * Show the form for creating a new resource.
      *
