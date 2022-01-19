@@ -9,7 +9,6 @@
                 <div class="card">
                     <div class="card-header">
 
-
                         <h5 class="title">Mesajlar</h5>
 
                         <p class="category">Mesajlar Listesini Görüntülemektesiniz.</p>

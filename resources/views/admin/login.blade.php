@@ -56,7 +56,6 @@
                 </div>
 
 
-
                 <div class="text-center">
 						<span class="txt1">
 							Create an account?

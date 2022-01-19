@@ -16,7 +16,6 @@
     <!-- CSS Just for demo purpose, don't include it in your project -->
     <link href="{{asset('assets')}}/admin/demo/demo.css" rel="stylesheet" />
 </head>
-
 </html>
 <body>
 <div class="content">
@@ -30,7 +29,7 @@
                 <div class="card-body">
 
                     <div style="width:200px; height: 600px;">
-                        
+
                         <table class="table" style="width: 800px">
 
                             <tr><th>Id</th><td>{{$data->id}}</td></tr>

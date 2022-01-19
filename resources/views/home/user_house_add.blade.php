@@ -13,7 +13,6 @@
 @section('title', 'User Profile '.$setting->title)
 @include('home._header')
 @section('content')
-
     <section id="maincontent" style="padding-top: 200px;">
         <div class="container">
             <div class="row">
