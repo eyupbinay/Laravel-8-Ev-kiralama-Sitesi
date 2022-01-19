@@ -2,7 +2,6 @@
 @php
     $setting=\App\Http\Controllers\HomeController::getsetting();
 @endphp
-
 @section('title', 'Yorumlarım | '.$setting->title)
 @include('home._header')
 @section ('content')
