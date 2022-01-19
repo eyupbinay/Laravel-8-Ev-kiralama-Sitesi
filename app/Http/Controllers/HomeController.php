@@ -22,7 +22,6 @@ class HomeController extends Controller
     {
         return Setting::first();
     }
-
     public function index(){
         $setting=Setting::first();
         $slider=House::select('id','title','image','slug','category_id','metrekare','phone','odasayisi','address','price')->limit(6)->where('status','=','True')->get();

@@ -69,7 +69,6 @@ class HouseController extends Controller
         return redirect()->route('user_houses')->with('Success','house added successfully');
 
     }
-
     /**
      * Display the specified resource.
      *

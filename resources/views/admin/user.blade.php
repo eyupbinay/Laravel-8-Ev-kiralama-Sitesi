@@ -9,7 +9,6 @@
             <div class="card">
                 <div class="card-header">
 
-
                     <h5 class="title">Userlar</h5>
                     @include('home.message')
 

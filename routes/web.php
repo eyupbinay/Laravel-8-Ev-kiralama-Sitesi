@@ -49,7 +49,7 @@ Route::middleware('auth')->prefix('admin')->group(function (){
         Route::get('category/show', [\App\Http\Controllers\Admin\CategoryController::class, 'show'])->name('admin_category_show');
 
 
-        Route::prefix('house')->group(function ()  {
+        Route::prefix('house')->group(function () {
             Route::get('/', [\App\Http\Controllers\Admin\HouseController::class, 'index'])->name('admin_houses');
             Route::get('create', [\App\Http\Controllers\Admin\HouseController::class, 'create'])->name('admin_house_create');
             Route::post('store', [\App\Http\Controllers\Admin\HouseController::class, 'store'])->name('admin_house_store');
