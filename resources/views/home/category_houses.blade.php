@@ -5,7 +5,6 @@
 @include('home._header')
 
 
-
 @section('content')
     <!--/ Property Star /-->
     <div class="recently-properties content-area-12">

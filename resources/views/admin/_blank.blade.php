@@ -1,7 +1,6 @@
 @extends('layouts.admin')
 
 @section('title','Admin Panel Home Page')
-
 @section('content')
 <div class="content">
     <div class="row">

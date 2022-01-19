@@ -19,7 +19,6 @@
             </div>
         </div>
     </div>
-
     <!-- Contact 2 start -->
     <div class="contact-2 content-area-5">
         <div class="container">

@@ -1,7 +1,6 @@
 @extends('layouts.admin')
 
 @section('title','Kategori Ekle')
-
 @section('content')
 <div class="content" style="padding-left: 300px; padding-top: 100px;">
     <div class="row">

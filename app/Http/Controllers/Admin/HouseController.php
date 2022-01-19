@@ -128,7 +128,6 @@ class HouseController extends Controller
             $data->image = Storage::putFile('images',$request->file('image'));
         }
 
-
         $data->save();
         return redirect()->route('admin_houses');
     }
