@@ -66,7 +66,6 @@
             <!-- Main title -->
             <div class="main-title">
                 <h1>Rastgele Kiralık Ev İlanları</h1>
-
             </div>
             <div class="slick-slider-area">
                 <div class="row slick-carousel" data-slick='{"slidesToShow": 4, "responsive":[{"breakpoint": 1024,"settings":{"slidesToShow": 2}}, {"breakpoint": 768,"settings":{"slidesToShow": 1}}]}'>
