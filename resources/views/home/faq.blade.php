@@ -6,6 +6,7 @@
 @section('title', 'SSS | '.$setting->title)
 @include('home._header')
 
+
 @section ('content')
     <!-- Sub banner start -->
     <div class="sub-banner">

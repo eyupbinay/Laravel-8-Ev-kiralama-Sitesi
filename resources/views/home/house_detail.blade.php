@@ -4,6 +4,7 @@
 
 @section('description'){{$data->description}}@endsection
 
+
 @section('keywords',$data->description)
 @include('home._header')
 @section('content')
