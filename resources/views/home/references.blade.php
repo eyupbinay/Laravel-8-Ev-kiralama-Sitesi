@@ -3,6 +3,7 @@
     $setting=\App\Http\Controllers\HomeController::getsetting();
 @endphp
 
+
 @section('title', 'Referanslarımız | '.$setting->title)
 @include('home._header')
 

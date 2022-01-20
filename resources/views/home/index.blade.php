@@ -7,7 +7,6 @@
 
 @endsection
 
-
 @include('home._header')
 
 @include('home._slider')
