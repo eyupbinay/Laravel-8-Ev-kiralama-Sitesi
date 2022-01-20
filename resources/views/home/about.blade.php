@@ -20,6 +20,7 @@
         </div>
     </div>
 
+
     <!-- About city estate start -->
     <div class="about-real-estate content-area-5">
         <div class="container">
