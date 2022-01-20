@@ -2,6 +2,7 @@
 
 @section('title', 'Admin Panel Home Page')
 
+
 @section('content')
 
     <main id="main" class="main">

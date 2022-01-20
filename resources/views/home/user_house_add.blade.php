@@ -3,6 +3,7 @@
     $setting=\App\Http\Controllers\HomeController::getsetting();
 @endphp
 
+
 <head>
     @FilemanagerScript
 </head>

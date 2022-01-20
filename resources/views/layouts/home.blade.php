@@ -53,8 +53,6 @@
 
 
 
-
-
 @include('home._footer')
 </body>
 </html>

@@ -2,6 +2,7 @@
 
 @section('title', 'Aranan Evler '.$search)
 
+
 @include('home._header')
 @section('content')
     <!--/ Property Star /-->
