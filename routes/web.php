@@ -36,6 +36,7 @@ Route::post('/sendreview/{id}/{slug}', [HomeController::class, 'sendreview'])->n
 
 Route::middleware('auth')->prefix('admin')->group(function (){
 
+
     Route::middleware('admin')->group(function() {
 
         Route::get('/', [\App\Http\Controllers\Admin\HomeController::class, 'index'])->name('admin_home');
