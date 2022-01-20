@@ -2,6 +2,7 @@
 
 @section('title','Kategoriyi Düzenle')
 
+
 @section('content')
 <div class="content" style="padding-left: 300px; padding-top: 100px;">
     <div class="row">

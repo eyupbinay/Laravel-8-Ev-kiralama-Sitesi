@@ -10,7 +10,6 @@
 <script src="https://cdn.ckeditor.com/4.14.0/standard/ckeditor.js"></script>
 
 
-
 @section('content')
 
     <section id="maincontent" style="padding-top: 200px;">
