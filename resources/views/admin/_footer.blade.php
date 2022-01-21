@@ -28,5 +28,4 @@
 <script src="{{ asset('assets')}}/admin/js/main.js"></script>
 </body>
 
-
 </html>

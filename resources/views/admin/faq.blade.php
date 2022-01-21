@@ -1,7 +1,6 @@
 @extends('layouts.admin')
 
 
-
 @section('title','Sıkça Sorulan Sorular')
 
 @section('content')

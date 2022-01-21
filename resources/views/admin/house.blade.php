@@ -82,5 +82,4 @@ float: right;">Kiralık Ev Ekle</a>
     </div>
 </div>
 
-
 @endsection
