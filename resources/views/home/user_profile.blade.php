@@ -3,6 +3,7 @@
     $setting=\App\Http\Controllers\HomeController::getsetting();
 @endphp
 
+
 @section('title', 'Profilim '.$setting->title)
 @include('home._header')
 @section ('content')

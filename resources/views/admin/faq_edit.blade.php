@@ -2,7 +2,6 @@
 
 @section('title','FAQ Düzenle')
 
-
 @section('javascript')
     <head>
         @FilemanagerScript
