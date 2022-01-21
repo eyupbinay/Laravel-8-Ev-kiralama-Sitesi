@@ -9,6 +9,7 @@
     <script src="https://cdn.ckeditor.com/4.14.0/standard/ckeditor.js"></script>
 
 @endsection
+
 @section('content')
 <div class="content" style="padding-left: 300px; padding-top: 100px;">
     <div class="row">
