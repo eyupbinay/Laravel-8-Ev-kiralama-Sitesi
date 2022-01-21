@@ -1,5 +1,6 @@
 @extends('layouts.admin')
 
+
 @section('title','Yorum Listesi')
 @section('content')
     <div class="content" style="padding-left: 300px; padding-top: 100px;">
