@@ -5,6 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
 
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+        .mySlides {display:none;}
+    </style>
+
+
+
+
+
+
+
+
     <!-- External CSS libraries -->
     <link rel="stylesheet" type="text/css" href="{{ asset('assets')}}/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets')}}/css/animate.min.css">
@@ -36,11 +48,19 @@
 <!--[if lt IE 9]><script src="{{ asset('assets')}}/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="{{ asset('assets')}}/js/ie-emulation-modes-warning.js"></script>
 
+
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
     <script src="{{ asset('assets')}}/js/html5shiv.min.js"></script>
     <script src="{{ asset('assets')}}/js/respond.min.js"></script>
     <![endif]-->
+
+
+
+
+
+
     @yield('css')
     @yield('headerjs')
 </head>

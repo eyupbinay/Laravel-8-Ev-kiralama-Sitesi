@@ -35,6 +35,7 @@
                                             <th><b>Image Gallery</b></th>
                                             <th><b>Oda Sayısı</b></th>
                                             <th><b>Metre Kare</b></th>
+                                            <th><b>Isıtma</b></th>
                                             <th><b>Fiyat</b></th>
                                             <th><b>Status</b></th>
                                             <th><b>Edit</b></th>
@@ -67,6 +68,9 @@
                                                     </td>
                                                     <td>
                                                         {{$rs->metrekare}}
+                                                    </td>
+                                                    <td>
+                                                        {{$rs->isitma}}
                                                     </td>
                                                     <td>
                                                         {{$rs->price}} ₺

@@ -261,6 +261,7 @@
                                 <li><label>Title :</label> {{$data->title}}</li>
                                 <li><label>Oda Sayısı :</label> {{$data->odasayisi}}</li>
                                 <li><label>Metre Kare :</label> {{$data->metrekare}}</li>
+                                <li><label>Isıtma :</label> {{$data->isitma}}</li>
                                 <li><label>Telefon :</label> {{$data->phone}}</li>
                                 <li><label>Kat Sayısı :</label> {{$data->katsayisi}}</li>
                                 <li><label>Eşya :</label> {{$data->esya}}</li>
